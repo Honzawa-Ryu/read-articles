@@ -1,5 +1,7 @@
 # Demystifying the Slash Pattern in Attention: The Role of RoPE
 Yuan Cheng, Fengzhuo Zhang, Yunlong Hou などによる
+2026/1/13投稿
+https://arxiv.org/abs/2601.08297
 軽く読んだ程度
 
 LLMのAttentionにおいて特定の相対位置に注意が集中する「スラッシュパターン（Slash Patterns）」がなぜ発生するのかについて、RoPEの影響を理論的に論じた論文
