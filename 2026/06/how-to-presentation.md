@@ -1,6 +1,7 @@
 # How to give a bad talk
 > It is crucial to know how to communicate your work by delivering an effective talk, but our training for doing so is limited, so it is a skill often learned by watching others — who sometimes do it badly.
-2026 / 6 / 24  投稿
+2026 / 6 / 24  投稿  
+https://www.nature.com/articles/s41568-026-00954-8
 
 ### 概要
 プレゼンテーションにおいて、特に科学的な成果を発表する場において多くの人が陥りがちな勘違いをたしなめる形式で効果的な方法をまとめている。  
