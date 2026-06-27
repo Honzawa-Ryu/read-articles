@@ -1,5 +1,5 @@
 # How to give a bad talk
-> It is crucial to know how to communicate your work by delivering an effective talk, but our training for doing so is limited, so it is a skill often learned by watching others — who sometimes do it badly.
+> It is crucial to know how to communicate your work by delivering an effective talk, but our training for doing so is limited, so it is a skill often learned by watching others — who sometimes do it badly.  
 2026 / 6 / 24  投稿  
 https://www.nature.com/articles/s41568-026-00954-8
 
